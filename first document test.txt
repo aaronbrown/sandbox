@@ -1,2 +1,4 @@
 this is a simple text file to test the git sandbox repository functionality
 I am adding this line, and then will do a commit.
+It seems the commit was only local, what happens when I push this line?
+After the push, the line that had been committed showed up on github, but the push line did not. I will commit now and then push.
