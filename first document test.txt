@@ -3,3 +3,4 @@ I am adding this line, and then will do a commit.
 It seems the commit was only local, what happens when I push this line?
 After the push, the line that had been committed showed up on github, but the push line did not. I will commit now and then push.
 Both of the above lines were visible on github after the commit and push. now, what if I commit this line...
+And then commit this second line, and then push?
